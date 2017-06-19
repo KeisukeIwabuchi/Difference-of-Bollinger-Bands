@@ -1,6 +1,6 @@
 # Difference of Bollinger Bands
 ボリンジャーバンドの+σと-σの差を表示するインジケーター  
-![sample](https://user-images.githubusercontent.com/14832366/27269416-c10fa1b8-54f1-11e7-8bd1-96939b43fd79.png)
+![sample](https://user-images.githubusercontent.com/14832366/27269572-0281a0dc-54f3-11e7-9f4f-968db652edf6.png)
 
 
 
@@ -19,3 +19,4 @@ deviation・・・ボリンジャーバンドの偏差。デフォルトは2.0
 price・・・ボリンジャーバンドの計算に使用する価格。デフォルトは終値  
 
 priceは、終値・始値・高値・安値・中央値・代表値・加重終値から選択可能です。
+表示されるラインの値は価格単位となっています。
