@@ -5,7 +5,7 @@
 
 
 ## インストール
-1. Difference of Bollinger Bands.mqhをダウンロード
+1. Difference of Bollinger Bands.mq4をダウンロード
 2. データフォルダを開き、/MQL4/Indicators/配下に保存
 3. MT4を再起動またはナビゲーターを更新してご利用ください。
 
